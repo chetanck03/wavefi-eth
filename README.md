@@ -1,5 +1,4 @@
 
-
 # 🚀 WaveFi
 
 > A skill-based competitive gaming platform built on Monad chain where players can earn real rewards through mini-games.
@@ -15,7 +14,6 @@ WaveFi solves this by building a fast, on-chain gaming platform on the Monad blo
 
 - Play skill-based games (starting with a Flappy Bird clone)
 - Earn real crypto for their performance
-- Own in-game items as NFTs (skins, power-ups)
 - Enjoy a fun and fair ecosystem
 
 It also introduces an AI-powered Trick Mode for added challenge and replayability. This Web3-native approach creates a new era of play-to-earn that’s fun, fast, and truly decentralized.
@@ -52,6 +50,8 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
 - **Role**: Ai Developer & Game Logic
 - **GitHub**: [github.com/anjali](https://github.com/anjali)
 
+---  
+
 ### Our Approach:
 - **Why This Problem**: We identified a gap in the blockchain gaming market for truly skill-based competitive games with real rewards
 - **Key Challenges Addressed**:
@@ -70,9 +70,6 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
 - Crypto enthusiasts interested in gaming applications
 - Mobile gamers familiar with skill-based competition
 - Monad chain community members
-
-
-
 ---
 
 ## 📽️ Demo & Deliverables
@@ -136,8 +133,6 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
 - ✅ Global leaderboards
 
 ---
-
-
 
 
 ## 🧪 How to Run the Project
