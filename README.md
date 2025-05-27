@@ -36,40 +36,20 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
 ### Team Members:  
 
 #### Chetan Kumar
-- **Role**: Full Stack Developer & Team Lead
-- **Responsibilities**: 
-  - Project architecture and technical decisions
-  - Smart contract development
-  - Frontend-blockchain integration
-  - Team coordination
+- **Role**: Blockchain Full Stack Developer & Team Lead
 - **GitHub**: [github.com/chetanck03](https://github.com/chetanck03)
 - **LinkedIn**: [linkedin.com/in/chetan](https://www.linkedin.com/in/chetan-ck-022717277/)
 
 #### Harsh Kapoor
-- **Role**: Frontend Developer & UI/UX Designer
-- **Responsibilities**:
-  - User interface development
-  - Game mechanics implementation
-  - Responsive design
-  - User experience optimization
+- **Role**: Backend Developer & UI/UX Designer
 - **GitHub**: [github.com/harshkapoor](https://github.com/kapoor108)
 
 #### Navdeep
-- **Role**: Smart Contract Developer
-- **Responsibilities**:
-  - Smart contract architecture
-  - Token economics implementation
-  - Game room contract development
-  - Testing and security
+- **Role**: Frontend Developer
 - **GitHub**: [github.com/navdeep](https://github.com/navdeep)
 
 #### Anjali
-- **Role**: Backend Developer & Game Logic
-- **Responsibilities**:
-  - Game logic implementation
-  - API development
-  - Testing and optimization
-  - Documentation
+- **Role**: Ai Developer & Game Logic
 - **GitHub**: [github.com/anjali](https://github.com/anjali)
 
 ### Our Approach:
@@ -151,7 +131,7 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
 ## 📽️ Demo & Deliverables
 
 - **Demo Video Link:**  [video](https://drive.google.com/file/d/12ow2pitxzPaGyJyHPpB7lunxKqGLKglQ/view)
-- **Pitch Deck / PPT Link:** [file](https://drive.google.com/file/d/1NS0cC2CSLFE-8Avg1ZvKyWhpWrQBgolq/view?usp=drive_link)
+- **Pitch Deck / PPT Link:** [file](https://drive.google.com/file/d/1HCrvA1xcsHj2Rm7qAIm_NQ1iREwO9M30/view)
 
 ---
 
@@ -166,7 +146,7 @@ WaveFi is a blockchain-powered play-to-earn gaming platform built on **Monad**, 
 ### Local Setup:
 ```bash
 # Clone the repo
-git clone https://github.com/your-team/wavefi
+git clone https://github.com/chetanck03/wavefi-eth
 
 # Install dependencies
 cd wavefi-eth
